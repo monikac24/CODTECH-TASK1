@@ -4,3 +4,15 @@
 ## Domain: Data Science
 ## Duration : 2 months
 ## Project 1 : Exploratory data analysis on Superstore Dataset
+
+##Overview of Project: 
+
+##Dataset link:
+
+#Key Objectives:
+
+#Key Insights:
+
+#Technologies used:
+
+#Conclusion:
