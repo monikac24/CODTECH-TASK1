@@ -28,18 +28,26 @@
 
 ## Objectives:
   1) To analyze the Superstore dataset and gain insights into various aspects of the store's operations.
+   
   2) To identify trends, patterns, and relationships within the data.
+   
   3) To visualize key metrics and categories to aid in decision-making.
 
 ## Key Activities:
    1) Data Loading: Importing the Superstore dataset using pandas.
+   
    2) Data Cleaning: Checking for missing values and handling them appropriately.
+   
    3) Exploratory Data Analysis (EDA):
        a) Analyzing the distribution of ship modes and regions.
+
        b) Visualizing category-wise and segment-wise data.
-       c) Investigating yearly order trends.
-       d) Analyzing profits and quantities for different categories.
-  4) Data Visualization: Creating plots to represent findings using matplotlib and seaborn.
+
+      c) Investigating yearly order trends.
+
+      d) Analyzing profits and quantities for different categories.
+ 
+  5) Data Visualization: Creating plots to represent findings using matplotlib and seaborn.
 
 ## Technologies used:
    a) Python: Programming language used for data analysis and visualization.
