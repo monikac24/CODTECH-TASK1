@@ -43,17 +43,26 @@
 
 ## Technologies used:
    a) Python: Programming language used for data analysis and visualization.
+   
    b) Pandas: Library for data manipulation and analysis.
+   
    c) Matplotlib: Library for creating static, animated, and interactive visualizations.
+   
    d) Seaborn: Library for making statistical graphics.
+   
    e) NumPy: Library for numerical operations.
    
 ## Key Findings:
    a) Ship Mode Distribution: The majority of orders are shipped using 'Standard Class', followed by 'Second Class', 'First Class', and 'Same Day'.
+   
    b) Regional Distribution: The highest number of orders come from the West region, followed by East, Central, and South.
+   
    c) Category Analysis: The 'Office Supplies' category has the highest number of orders, followed by 'Furniture' and 'Technology'.
+   
    d) Segment Analysis: The 'Consumer' segment has the most orders, followed by 'Corporate' and 'Home Office'.
+   
    e) Yearly Order Trends: There is a consistent increase in the number of orders over the years, indicating business growth.
+   
    f)Profit Analysis: The 'Technology' category generates the highest profit, while 'Office Supplies' generates the least.
    
 ## Conclusion:
