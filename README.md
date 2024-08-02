@@ -1,18 +1,20 @@
 ### Name: Monika Choudhary
 ### Company name : Codtech IT Solutions
-### Id :CT8DS1233
+### ID: CT8DS1233
 ### Domain: Data Science
 ### Duration : 2 months
 
-##Overview of Project: 
+## Overview of Project: 
 ### Project 1 : Exploratory data analysis on Superstore Dataset
+### Analysis on Ship_mode : 
+![count_on_shipmode](https://github.com/user-attachments/assets/8c83731c-952f-4c31-8bce-e6fea9bb680a)
 
-## Dataset link:
+### Dataset link:
 
-# Objectives:
+## Objectives:
 
-# Key Activities:
+## Key Activities:
 
-# Technologies used:
+## Technologies used:
 
-# Conclusion:
+## Conclusion:
